@@ -1,2 +1,1 @@
 # truecallerjs-types
-# truecallerjs-types

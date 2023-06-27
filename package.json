@@ -1,0 +1,38 @@
+{
+  "name": "@types/truecallerjs",
+  "version": "1.0.0",
+  "description": "Type declarations for TruecallerJS library",
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Sumith Emmadi (sumithemmadi)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumithemmadi/truecallerjs-types.git"
+  },
+  "keywords": [
+    "truecallerjs",
+    "types",
+    "typings",
+    "type declarations"
+  ],
+  "dependencies": {
+    "awesome-phonenumber": "^5.10.0",
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "inquirer": "^9.2.7",
+    "json-colorizer": "^2.2.2",
+    "json-to-plain-text": "^1.0.5",
+    "json-to-pretty-yaml": "^1.2.2",
+    "xml2js": "^0.6.0",
+    "yargs": "^17.7.2",
+    "yargs-parser": "^21.1.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.3.2",
+    "@types/xml2js": "^0.4.11",
+    "@types/yargs": "^17.0.24"
+  }
+}
